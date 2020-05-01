@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class biggest_number_test1 {
 
-	public static void main(String[] args) {
+		class test4  {
+		public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the number of elements:");
 		int N=s.nextInt();
